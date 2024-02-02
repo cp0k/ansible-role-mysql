@@ -2,6 +2,7 @@ Role Name
 =========
 
 This role installs the MySQL database.
+
 Requirements
 ------------
 
